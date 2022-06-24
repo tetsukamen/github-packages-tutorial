@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tetsukamen/github-packages-tutorial/issues"
   },
-  "homepage": "https://github.com/tetsukamen/github-packages-tutorial#readme"
+  "homepage": "https://github.com/tetsukamen/github-packages-tutorial#readme",
+  "publishConfig": {
+    "@tetsukamen:registry": "https://npm.pkg.github.com"
+  }
 }
