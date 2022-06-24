@@ -1,0 +1,19 @@
+{
+  "name": "@tetsukamen/github-packages-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetsukamen/github-packages-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tetsukamen/github-packages-tutorial/issues"
+  },
+  "homepage": "https://github.com/tetsukamen/github-packages-tutorial#readme"
+}
