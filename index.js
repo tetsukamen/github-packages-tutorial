@@ -1,1 +1,3 @@
-console.log("Hello, ReviewBank");
+export const tetsukamen = (value) => {
+  return value * 2;
+};
