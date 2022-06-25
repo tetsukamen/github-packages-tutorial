@@ -1,6 +1,6 @@
 {
   "name": "@tetsukamen/github-packages-tutorial",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/tetsukamen/github-packages-tutorial/issues"
   },
-  "homepage": "https://github.com/tetsukamen/github-packages-tutorial#readme"
+  "homepage": "https://github.com/tetsukamen/github-packages-tutorial#readme",
+  "publishConfig": {
+    "@tetsukamen:registry": "https://npm.pkg.github.com",
+    "access": "restricted"
+  }
 }

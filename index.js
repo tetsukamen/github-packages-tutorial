@@ -1,1 +1,1 @@
-alert("Hello, Revie!");
+console.log("Hello, ReviewBank");
