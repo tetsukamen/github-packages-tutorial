@@ -1,6 +1,6 @@
 {
   "name": "@tetsukamen/github-packages-tutorial",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
@@ -26,6 +26,7 @@
     "access": "restricted"
   },
   "devDependencies": {
+    "@types/node": "^18.0.0",
     "npm-run-all": "^4.1.5",
     "rimraf": "^3.0.2",
     "ts-node": "^10.8.1",
